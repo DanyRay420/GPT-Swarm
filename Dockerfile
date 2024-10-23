@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM python:3.13-slim
 
 LABEL org.opencontainers.image.base.name="python:3.10-slim" \
       org.opencontainers.image.description="GPT-Swarm is an open-source project that harnesses the power of swarm intelligence to enhance the capabilities of state-of-the-art language models. By leveraging collective problem-solving and distributed decision-making, GPT-Swarm creates a robust, adaptive, and scalable framework for tackling complex tasks across various domains." \
